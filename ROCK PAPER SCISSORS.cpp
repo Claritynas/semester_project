@@ -123,8 +123,10 @@ while (  time_out==false){
 		break;	}
 	
 	  else{
-		cout<<"draw \n";
-	}}}
+		cout<<"nobody wins overall \n";
+		  break;
+	}}
+	}
 	else{
 	 cout<<"invalid entry try again \n";
 	}
